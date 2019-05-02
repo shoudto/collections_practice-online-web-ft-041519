@@ -55,5 +55,5 @@ def add_s(array)
     index == 1 ? word : word + "s"
   end 
 end 
-end
+
 
